@@ -1,6 +1,11 @@
-HELP.md
-target/
+# Maven target folder
+# Deixe essa linha caso você não queira versionar os artefatos de build
+# target/
+
+# Maven Wrapper
 !.mvn/wrapper/maven-wrapper.jar
+
+# Excluir build das pastas src/main e src/test
 !**/src/main/**/target/
 !**/src/test/**/target/
 
