@@ -71,8 +71,8 @@ Siga os passos abaixo para configurar e rodar o projeto:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://https://github.com/Kleysn/java-spring-boot.git
+cd java-spring-boot
 ```
 
 ### 2. Construir o projeto com Maven
